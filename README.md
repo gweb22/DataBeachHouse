@@ -1,4 +1,4 @@
-# DataBeachHouse Forecasting Models
+# Data Beach House Forecasting Models
 
 ## Project Overview
 
