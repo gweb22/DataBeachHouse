@@ -10,14 +10,14 @@
 
 ## Problem Statement
 
-Blue Nalu Analytics, a data consultancy based in North Carolina, supports small and mid-sized businesses in using their data more effectively. Our capstone team will assist Blue Nalu in generating actionable forecasts and visualizations to help business clients better understand reservation patterns, customer behavior, and related operational trends. The project is exploratory by nature but centers on producing forward-looking models and recommendations using historical data.
+Blue Nalu Analytics, a data consultancy based in North Carolina, supports small and mid-sized businesses in using their data more effectively. Our capstone team will assist Blue Nalu in generating actionable forecasts and visualizations to help business clients better understand seasonal tourist volume and geographic origin, reservation patterns, customer behavior, and related operational trends. The project is exploratory by nature but centers on producing forward-looking models and recommendations using historical data.
 
 ---
 
 ## Project Objectives
 
 - Analyze reservation and booking trends from historical data
-- Build predictive models with a short-term forecast horizon (1–4 weeks out)
+- Build predictive models with a short-term forecast horizon (rolling 1–4 weeks out)
 - Identify correlations and patterns that inform business decisions
 - Develop Tableau or Excel-based dashboards for insight delivery
 - Create clear and actionable recommendations for small business clients
@@ -29,6 +29,7 @@ Blue Nalu Analytics, a data consultancy based in North Carolina, supports small 
 **Primary Data Source**:  
 - Historical reservation/booking data provided by Blue Nalu Analytics  
 - Time series data with seasonal/short-term variations
+- Team research and discovery efforts
 
 **Key Data Tasks**:
 - Cleaning and preprocessing (date/time parsing, missing value imputation)
